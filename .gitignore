@@ -1,0 +1,18 @@
+# Local Java installation and editor settings
+.tools/
+.vscode/
+**/.vscode/
+# Generated output
+bin/
+**/target/
+*.class
+*.log
+# Local database and credentials
+**/data/
+*.mv.db
+*.trace.db
+.env
+.env.*
+!.env.example
+*.pem
+*.key
